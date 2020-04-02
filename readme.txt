@@ -1,6 +1,8 @@
 Version of LockBox2 for Delphi 2009, XE, XE2, XE3, FPC and Lazarus.
 
-fix AES256 bug by TerryLao
+1. fix AES256 bug 
+2. add AES CTR Mode
+       by TerryLao
 
 Please read readme-64.txt for the 64 bit changes.
 
